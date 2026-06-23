@@ -1,0 +1,329 @@
+{
+  "generated_at": "June 23, 2026 at 04:02 PM",
+  "categories": [
+    {
+      "key": "identity_kyc",
+      "label": "Identity & KYC",
+      "emoji": "\ud83d\udd0d",
+      "summary": "Synthetic identity fraud is emerging as the dominant KYC threat in 2026, with fraudsters increasingly capable of bypassing traditional document verification checks by constructing fabricated identities that appear legitimate in isolation \u2014 signaling an urgent need for holistic, multi-signal verification approaches rather than single-point document checks. The sweepstakes casino sector highlights ongoing vendor transparency concerns, as operators across 26 platforms vary significantly in their disclosed KYC, geolocation, and payment stack configurations, creating inconsistent compliance postures that bad actors can exploit. Industry response is consolidating around orchestration-driven platforms (AU10TIX/Camunda) and higher-ranked IDV vendors (Shufti), suggesting the market is maturing toward layered, automated verification workflows \u2014 analysts should prioritize reviewing whether current KYC tooling evaluates behavioral and document signals in combination rather than sequentially.",
+      "severity": "HIGH",
+      "articles": [
+        {
+          "title": "US Sweepstakes Tech Stacks: What 26 Operators Disclose [2026]",
+          "link": "https://tech-insider.org/igt-us-sweepstakes-operator-tech-stack-disclosure-analysis-en-d171/",
+          "source": "tech-insider.org",
+          "snippet": "Which KYC, geolocation, and payment vendors do US sweepstakes casinos disclose? Analysis of 26 operators including VGW, McLuck, Stake.us in...",
+          "category": "Identity & KYC",
+          "emoji": "\ud83d\udd0d"
+        },
+        {
+          "title": "Shufti Ranked as a Leader in G2\u2019s Summer 2026 Identity Verification Grid\u00ae Report",
+          "link": "https://www.globenewswire.com/news-release/2026/06/10/3309985/0/en/shufti-ranked-as-a-leader-in-g2-s-summer-2026-identity-verification-grid-report.html",
+          "source": "GlobeNewswire",
+          "snippet": "LONDON, June 10, 2026 (GLOBE NEWSWIRE) -- Shufti, the leading identity verification, KYC, and AML compliance platform, is recognized as a...",
+          "category": "Identity & KYC",
+          "emoji": "\ud83d\udd0d"
+        },
+        {
+          "title": "Synthetic identity fraud: the growing threat in 2026",
+          "link": "https://fintech.global/2026/03/27/synthetic-identity-fraud-the-growing-threat-in-2026/",
+          "source": "FinTech Global",
+          "snippet": "Synthetic identity fraud is rising fast in 2026. Discover how businesses can detect and prevent it \u2014 read the full article now.",
+          "category": "Identity & KYC",
+          "emoji": "\ud83d\udd0d"
+        },
+        {
+          "title": "AU10TIX Selects Camunda to Orchestrate High-Volume KYC and KYB Identity Verification",
+          "link": "https://www.businesswire.com/news/home/20260423651478/en/AU10TIX-Selects-Camunda-to-Orchestrate-High-Volume-KYC-and-KYB-Identity-Verification",
+          "source": "Business Wire",
+          "snippet": "Camunda, the enterprise platform for agentic orchestration, today announced that AU10TIX, a global leader in identity verification and fraud...",
+          "category": "Identity & KYC",
+          "emoji": "\ud83d\udd0d"
+        },
+        {
+          "title": "Fraudsters Build Synthetic Identities That Fool Traditional KYC Checks",
+          "link": "https://www.pymnts.com/identity/2026/fraudsters-build-synthetic-identities-that-fool-traditional-kyc-checks/",
+          "source": "PYMNTS.com",
+          "snippet": "Regula EVP Henry Patishman shares how orchestrated ID verification that evaluate signals holistically are helping raise the cost of fraud.",
+          "category": "Identity & KYC",
+          "emoji": "\ud83d\udd0d"
+        }
+      ]
+    },
+    {
+      "key": "payment_fraud",
+      "label": "Payment Fraud",
+      "emoji": "\ud83d\udcb3",
+      "summary": "The payment fraud landscape is escalating across multiple vectors, with real-time payment rails (FedNow/RTP) eliminating traditional settlement-window fraud buffers and creating urgent security gaps that require immediate banking infrastructure overhauls. Friendly fraud and chargeback abuse is emerging as a significant threat to small businesses and consumers alike, with Australian SMBs reporting rising losses while individual consumers simultaneously struggle to obtain legitimate chargeback protections from their banks. AI-driven fraud prevention and real-time dispute resolution tools are gaining traction as critical countermeasures, though adoption gaps remain a key vulnerability across the ecosystem.",
+      "severity": "HIGH",
+      "articles": [
+        {
+          "title": "Paris taxi scam cost \u00a3493 but Monzo won\u2019t help me",
+          "link": "https://www.theguardian.com/money/2026/jun/22/paris-taxi-scam-monzo-bank-money-chargeback",
+          "source": "The Guardian",
+          "snippet": "We were charged the wrong amount, but because the bank says we have no evidence it won't do a chargeback. Anna Tims. Mon 22 Jun 2026 03.00...",
+          "category": "Payment Fraud",
+          "emoji": "\ud83d\udcb3"
+        },
+        {
+          "title": "Payment dispute resolution: How real-time alerts help stop chargebacks",
+          "link": "https://www.mastercard.com/us/en/news-and-trends/stories/2026/mastercard-fiserv-dispute-resolution.html",
+          "source": "Mastercard",
+          "snippet": "Real-time dispute management solutions can proactively share information with banks to head off expensive and often lengthy chargebacks.",
+          "category": "Payment Fraud",
+          "emoji": "\ud83d\udcb3"
+        },
+        {
+          "title": "Why Real-Time Push Payments Demand a Total Retail Banking Security Reset",
+          "link": "https://thefinancialbrand.com/news/payments-trends/why-real-time-push-payments-demand-a-total-retail-banking-security-reset-196853",
+          "source": "The Financial Brand",
+          "snippet": "FedNow and RTP eliminate the safety of the two-day settlement window, requiring banks to defend against fraudulent 'Request for Payment'...",
+          "category": "Payment Fraud",
+          "emoji": "\ud83d\udcb3"
+        },
+        {
+          "title": "AI is helping banks save millions by transforming payment fraud prevention",
+          "link": "https://www.mastercard.com/us/en/news-and-trends/Insights/2026/ai-is-helping-banks-save-millions-by-transforming-payment-fraud-prevention.html",
+          "source": "Mastercard",
+          "snippet": "Learn how AI enables real-time payment fraud detection that helps banks reduce false positives, increase approval rates and improve customer...",
+          "category": "Payment Fraud",
+          "emoji": "\ud83d\udcb3"
+        },
+        {
+          "title": "Australian businesses falling victim to new type of fraud",
+          "link": "https://www.abc.net.au/news/2026-05-04/fraudulent-chargebacks-hit-small-businesses-financial-pressure/106479208",
+          "source": "Australian Broadcasting Corporation",
+          "snippet": "Small business owners say they are falling victim to a modern type of theft: fraudulent chargebacks. It happens when a customer lodges a...",
+          "category": "Payment Fraud",
+          "emoji": "\ud83d\udcb3"
+        }
+      ]
+    },
+    {
+      "key": "business_fraud",
+      "label": "Business Fraud & KYB",
+      "emoji": "\ud83c\udfe2",
+      "summary": "The business verification landscape is undergoing significant regulatory tightening in 2026, with the UK's Companies House now mandating identity verification for directors and PSCs, signaling a broader global push for stricter KYB compliance frameworks. LEI adoption is expanding beyond regulatory reporting, and AI-driven KYB solutions are emerging as critical tools to manage compliance complexity while reducing onboarding friction for legitimate entities. Fraud analysts should prioritize updating due diligence workflows to align with these evolving standards, as non-compliance penalties and exploitation of verification gaps by bad actors represent growing operational risks.",
+      "severity": "MEDIUM",
+      "articles": [
+        {
+          "title": "How KYB compliance protects your business in 2026",
+          "link": "https://fintech.global/2026/04/23/how-kyb-compliance-protects-your-business-in-2026/",
+          "source": "FinTech Global",
+          "snippet": "KYB compliance is evolving fast in 2026. Discover the key regulations, challenges, and AI solutions \u2014 read the full guide now.",
+          "category": "Business Fraud & KYB",
+          "emoji": "\ud83c\udfe2"
+        },
+        {
+          "title": "What\u2019s in store for the LEI in 2026?: By Steve Waite",
+          "link": "https://www.finextra.com/blogposting/30686/whats-in-store-for-the-lei-in-2026",
+          "source": "Finextra Research",
+          "snippet": "The Legal Entity Identifier, or LEI, is steadily moving beyond its original role in regulatory repor...",
+          "category": "Business Fraud & KYB",
+          "emoji": "\ud83c\udfe2"
+        },
+        {
+          "title": "Mandatory identity verification for UK companies goes live",
+          "link": "https://www.biometricupdate.com/202511/mandatory-identity-verification-for-uk-companies-goes-live",
+          "source": "Biometric Update",
+          "snippet": "On Tuesday, Companies House plans to introduce mandatory identity verification for company directors and people with significant control...",
+          "category": "Business Fraud & KYB",
+          "emoji": "\ud83c\udfe2"
+        },
+        {
+          "title": "Why Friction Is Not the Enemy in Identity Verification",
+          "link": "https://www.pymnts.com/authentication/digital-onboarding/2026/why-friction-is-not-the-enemy-in-identity-verification/",
+          "source": "PYMNTS.com",
+          "snippet": "Trulioo CTO Hal Lonas says firms must calibrate friction, refine identity models and reduce onboarding errors that alienate legitimate...",
+          "category": "Business Fraud & KYB",
+          "emoji": "\ud83c\udfe2"
+        },
+        {
+          "title": "Avoid penalties: Five data-driven ways to meet global financial compliance regulations",
+          "link": "https://www.ukfinance.org.uk/news-and-insight/blog/avoid-penalties-five-data-driven-ways-meet-global-financial-compliance",
+          "source": "UK Finance",
+          "snippet": "Read the latest news and insights from UK Finance: Avoid penalties: Five data-driven ways to meet global financial compliance regulations.",
+          "category": "Business Fraud & KYB",
+          "emoji": "\ud83c\udfe2"
+        }
+      ]
+    },
+    {
+      "key": "account_takeover",
+      "label": "Account Takeover",
+      "emoji": "\ud83d\udd10",
+      "summary": "UK fraud has reached record highs in 2025, with Cifas logging 444,000 cases in the National Fraud Database and AI-accelerated techniques driving a surge in Account Takeover attacks. Key threat vectors include credential stuffing, MFA bypass, and 3DS authentication exploitation, with 2026 projections indicating further escalation as adversaries adopt more sophisticated tooling. Fraud analysts should prioritize reviewing ATO detection controls, MFA resilience, and 3DS failure monitoring as immediate defensive measures.",
+      "severity": "HIGH",
+      "articles": [
+        {
+          "title": "Account Takeover (ATO) Attacks Explained: Detection, Prevention & Mitigation",
+          "link": "https://securityboulevard.com/2026/01/account-takeover-ato-attacks-explained-detection-prevention-mitigation/",
+          "source": "Security Boulevard",
+          "snippet": "Learn how to detect and prevent Account Takeover (ATO) attacks. Expert guide for CTOs on credential stuffing, MFA bypass, and enterprise...",
+          "category": "Account Takeover",
+          "emoji": "\ud83d\udd10"
+        },
+        {
+          "title": "3DS Authentication Failed? Here's What to Do",
+          "link": "https://www.corbado.com/blog/3ds-authentication-failed",
+          "source": "Corbado",
+          "snippet": "Understand why 3DS authentication fails, from user errors to cyberattacks. Learn to protect against credential stuffing, phishing and...",
+          "category": "Account Takeover",
+          "emoji": "\ud83d\udd10"
+        },
+        {
+          "title": "UK fraud hits record high as AI accelerates crime",
+          "link": "https://fintech.global/2026/03/16/uk-fraud-hits-record-high-as-ai-accelerates-crime/",
+          "source": "FinTech Global",
+          "snippet": "Fraud hits record highs in the UK, says Cifas Fraudscape 2026. Discover the key trends and what they mean for financial crime defence.",
+          "category": "Account Takeover",
+          "emoji": "\ud83d\udd10"
+        },
+        {
+          "title": "What will happen with Account Takeover Fraud in 2026?",
+          "link": "https://www.europeanbusinessreview.com/what-will-happen-with-account-takeover-fraud-in-2026/",
+          "source": "The European Business Review",
+          "snippet": "Discover emerging account takeover threats in 2026 and how businesses can strengthen security before risks escalate.",
+          "category": "Account Takeover",
+          "emoji": "\ud83d\udd10"
+        },
+        {
+          "title": "UK\u2019s National Fraud Database filed 444,000 fraud cases in 2025 - Cifas",
+          "link": "https://www.finextra.com/newsarticle/47433/uks-national-fraud-database-filed-444000-fraud-cases-in-2025---cifas",
+          "source": "Finextra Research",
+          "snippet": "The Cifas Fraudscape 2026 report found that fraud cases are at a record high in the UK.",
+          "category": "Account Takeover",
+          "emoji": "\ud83d\udd10"
+        }
+      ]
+    },
+    {
+      "key": "regulatory",
+      "label": "Regulatory & Compliance",
+      "emoji": "\u2696\ufe0f",
+      "summary": "The U.S. regulatory landscape is undergoing significant shifts, with Executive Order 14406 signaling a federal push to overhaul financial system integrity, while a federal court's vacatur of a FinCEN AML rule creates an immediate compliance gap that bad actors may exploit. The 2026 AML and Digital Business reports highlight evolving enforcement priorities around cryptocurrency and e-commerce, indicating expanded threat surfaces that fraud teams must monitor closely. Analysts should reassess AML program dependencies on the vacated FinCEN rule and track EO 14406 implementation guidance, as regulatory uncertainty typically creates short-term vulnerabilities that sophisticated financial criminals will move quickly to exploit.",
+      "severity": "HIGH",
+      "articles": [
+        {
+          "title": "President Trump Issues Executive Order 14406 to Restore Integrity to America\u2019s Financial System",
+          "link": "https://www.consumerfinancialserviceslawmonitor.com/2026/06/president-trump-issues-executive-order-14406-to-restore-integrity-to-americas-financial-system/",
+          "source": "Consumer Financial Services Law Monitor",
+          "snippet": "On May 19, President Donald Trump issued Executive Order 14406, \u201cRestoring Integrity to America's Financial System,\u201d which establishes a new...",
+          "category": "Regulatory & Compliance",
+          "emoji": "\u2696\ufe0f"
+        },
+        {
+          "title": "USA - Digital Business Laws and Regulations 2026",
+          "link": "https://iclg.com/practice-areas/digital-business-laws-and-regulations/usa/",
+          "source": "ICLG",
+          "snippet": "This article covers digital business laws in the USA, discussing the implications for an agile workforce, e-commerce regulations,...",
+          "category": "Regulatory & Compliance",
+          "emoji": "\u2696\ufe0f"
+        },
+        {
+          "title": "Right To Know - June 2026, Vol. 42",
+          "link": "https://www.clarkhill.com/news-events/news/right-to-know-june-2026-vol-42/",
+          "source": "Clark Hill",
+          "snippet": "Welcome to your monthly rundown of all things cyber, privacy, and technology, where we highlight all the happenings you may have missed.",
+          "category": "Regulatory & Compliance",
+          "emoji": "\u2696\ufe0f"
+        },
+        {
+          "title": "FinCEN anti-money laundering rule struck down in court",
+          "link": "https://www.housingwire.com/articles/fincen-anti-money-laundering-rule-struck-down-in-court/",
+          "source": "HousingWire",
+          "snippet": "A federal judge vacated a nationwide anti-money laundering rule from Financial Crimes Enforcement Network, ruling the agency exceeded its...",
+          "category": "Regulatory & Compliance",
+          "emoji": "\u2696\ufe0f"
+        },
+        {
+          "title": "Anti Money Laundering Laws and Regulations Report 2026 USA",
+          "link": "https://iclg.com/practice-areas/anti-money-laundering-laws-and-regulations/usa/",
+          "source": "ICLG",
+          "snippet": "This article considers anti-money laundering laws in the USA, covering criminal enforcement, administrative requirements, cryptocurrency, and more.",
+          "category": "Regulatory & Compliance",
+          "emoji": "\u2696\ufe0f"
+        }
+      ]
+    },
+    {
+      "key": "trust_safety",
+      "label": "Trust & Safety",
+      "emoji": "\ud83c\udf10",
+      "summary": "A large-scale phishing campaign dubbed \"AccountDumpling\" compromised approximately 30,000 Facebook Business accounts across 50 countries by abusing trusted cloud infrastructure (Google AppSheet) to bypass email security filters \u2014 a notable tactic shift toward leveraging legitimate platforms for credential harvesting at scale. Separately, 74,000 Fortinet firewall credentials were stolen and Splunk Enterprise RCE vulnerabilities are under active exploitation, signaling elevated risk for enterprise security infrastructure that fraud teams may depend on. Spur's no-code session enrichment update offers a practical opportunity for fraud teams to accelerate proxy/VPN detection deployment without engineering dependencies.",
+      "severity": "HIGH",
+      "articles": [
+        {
+          "title": "Week in review: 74k Fortinet firewall credentials stolen, Splunk Enterprise RCE under active attack",
+          "link": "https://www.helpnetsecurity.com/2026/06/21/week-in-review-74k-fortinet-firewall-credentials-stolen-splunk-enterprise-rce-under-active-attack/",
+          "source": "Help Net Security",
+          "snippet": "Here's an overview of some of last week's most interesting news, articles, interviews and videos: A hardware neural network backdoor that...",
+          "category": "Trust & Safety",
+          "emoji": "\ud83c\udf10"
+        },
+        {
+          "title": "Spur Enhances Monocle Session Enrichment with No-Code",
+          "link": "https://www.globenewswire.com/news-release/2026/06/16/3312703/0/en/spur-enhances-monocle-session-enrichment-with-no-code-cloudflare-integration-to-accelerate-inline-traffic-enforcement.html",
+          "source": "GlobeNewswire",
+          "snippet": "New capabilities make session enrichment faster to deploy and operationalize, and more actionable for security, fraud, and trust teams...",
+          "category": "Trust & Safety",
+          "emoji": "\ud83c\udf10"
+        },
+        {
+          "title": "Bot Security Market Size, Share & Growth Rate [2026-2034]",
+          "link": "https://www.fortunebusinessinsights.com/bot-security-market-107185",
+          "source": "Fortune Business Insights",
+          "snippet": "The global bot security market size was valued at USD 1.05 billion in 2025 and is projected to grow from USD 1.27 billion in 2026 to USD...",
+          "category": "Trust & Safety",
+          "emoji": "\ud83c\udf10"
+        },
+        {
+          "title": "30,000 Facebook Business Accounts Compromised in AccountDumpling Phishing Campaign Abusing Google AppSheet and Trusted Cloud Platforms",
+          "link": "https://www.rescana.com/post/30-000-facebook-business-accounts-compromised-in-accountdumpling-phishing-campaign-abusing-google-appsheet-and-trusted-c",
+          "source": "Rescana",
+          "snippet": "Executive SummaryA large-scale phishing campaign, codenamed AccountDumpling, has resulted in the compromise of approximately 30000 Facebook...",
+          "category": "Trust & Safety",
+          "emoji": "\ud83c\udf10"
+        },
+        {
+          "title": "Google AppSheet Abuse Helped Phish 30,000 Facebook Accounts",
+          "link": "https://www.techrepublic.com/article/news-google-appsheet-facebook-phishing-accountdumpling/",
+          "source": "TechRepublic",
+          "snippet": "Hackers abused Google AppSheet to send Meta phishing emails, compromising 30000 Facebook business accounts across 50 countries.",
+          "category": "Trust & Safety",
+          "emoji": "\ud83c\udf10"
+        }
+      ]
+    }
+  ],
+  "trends": [
+    {
+      "keyword": "identity theft",
+      "score": 45
+    },
+    {
+      "keyword": "account takeover",
+      "score": 28
+    },
+    {
+      "keyword": "chargeback fraud",
+      "score": 20
+    },
+    {
+      "keyword": "synthetic identity",
+      "score": 11
+    },
+    {
+      "keyword": "deepfake fraud",
+      "score": 6
+    }
+  ],
+  "top_story": {
+    "title": "US Sweepstakes Tech Stacks: What 26 Operators Disclose [2026]",
+    "link": "https://tech-insider.org/igt-us-sweepstakes-operator-tech-stack-disclosure-analysis-en-d171/",
+    "source": "tech-insider.org",
+    "snippet": "Which KYC, geolocation, and payment vendors do US sweepstakes casinos disclose? Analysis of 26 operators including VGW, McLuck, Stake.us in...",
+    "category": "Identity & KYC",
+    "emoji": "\ud83d\udd0d"
+  }
+}
