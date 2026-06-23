@@ -1,0 +1,4 @@
+venv/ 
+.env 
+data/digest.json 
+__pycache__/ 
